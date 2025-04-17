@@ -35,11 +35,17 @@ const NavBar = () => {
 
   return (
     <nav>
-      <div className="p-8 md:hidden text-2xl " onClick={() => setOpen(!open)}>
-        {open == true ? <IoMenu className="md:hidden" /> : <IoClose />}
-        
+      <div
+        className="p-8 md:hidden text-2xl bg-gray-400 "
+        onClick={() => setOpen(!open)}
+      >
+        {open == true ? <IoClose /> : <IoMenu className="md:hidden" />}
       </div>
-      <ul className="md:flex items-center absolute md:static">
+      <ul
+        className={`md:flex items-center absolute md:static duration-1000
+      ${open ? "top-16" : "-top-60"}
+         px-6 bg-gray-400 text-black mt-1`}
+      >
         {routes.map((route) => (
           <Link key={route.id} route={route} />
         ))}
