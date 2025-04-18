@@ -1,0 +1,93 @@
+[
+    {
+      "id": 1,
+      "name": "Boishakhi Bonanza",
+      "features": [
+        "Flat 20% off on traditional wear",
+        "Coupon: BOISHAKH20",
+        "Valid till 14th April",
+        "Applicable on men & women clothing",
+        "Free delivery over ৳500",
+        "Extra 5% off for app users",
+        "Easy return within 3 days",
+        "Limited stock offer"
+      ],
+      "prices": 250
+    },
+    {
+      "id": 2,
+      "name": "Tech Lover's Discount",
+      "features": [
+        "Up to 40% off on gadgets",
+        "Special price on smartphones",
+        "Coupon: TECH40",
+        "Installment available",
+        "Gift voucher with every purchase",
+        "Warranty included",
+        "Valid till stock ends",
+        "Free accessories bundle"
+      ],
+      "prices": 999
+    },
+    {
+      "id": 3,
+      "name": "Daily Essentials Saver",
+      "features": [
+        "Buy 2 Get 1 Free",
+        "Applicable on groceries",
+        "Instant delivery in Dhaka city",
+        "No coupon needed",
+        "Minimum order ৳300",
+        "Free delivery on first order",
+        "Reusable items discount",
+        "Loyalty points applicable"
+      ],
+      "prices": 120
+    },
+    {
+      "id": 4,
+      "name": "Valentine’s Day Deal",
+      "features": [
+        "Special couple combo packs",
+        "Flat 15% off",
+        "Valid from Feb 10 to 14",
+        "Romantic gift wrapping available",
+        "Use code: LOVE15",
+        "Surprise gifts included",
+        "Same-day delivery available",
+        "Secure checkout"
+      ],
+      "prices": 349
+    },
+    {
+      "id": 5,
+      "name": "Fitness Freak Offer",
+      "features": [
+        "Up to 35% off on gym equipment",
+        "Personal trainer trial included",
+        "Coupon: FIT35",
+        "Free workout guide PDF",
+        "Valid for 7 days",
+        "Cashback ৳200 on orders above ৳1000",
+        "Delivery within 48 hours",
+        "Trusted brands only"
+      ],
+      "prices": 750
+    },
+    {
+      "id": 6,
+      "name": "Back to School Pack",
+      "features": [
+        "Stationery combo discount",
+        "Extra 10% off on backpacks",
+        "Coupon: SCHOOL10",
+        "Valid for students only",
+        "Free water bottle with every bag",
+        "Easy return within 5 days",
+        "School supplies from top brands",
+        "Bundle packs available"
+      ],
+      "prices": 180
+    }
+  ]
+  
