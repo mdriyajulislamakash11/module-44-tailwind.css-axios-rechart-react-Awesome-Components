@@ -1,4 +1,5 @@
 import './App.css'
+import LChart from './components/LChart'
 import NavBar from './components/NavBar'
 import PriceOptions from './components/PriceOptions'
 
@@ -15,6 +16,7 @@ function App() {
 
       <PriceOptions />
 
+      <LChart />
       </div>
       
     </>
